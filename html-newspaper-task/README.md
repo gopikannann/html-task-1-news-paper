@@ -1,1 +1,0 @@
-# html-newspaper-task
